@@ -47,4 +47,6 @@ Drivers were **LESS** likely to accept a coffee coupon if:
 The coffee coupon acceptance rate when taking into account all the 6 conditions above is 19.4%.
 
 ### Next Steps & Recommendations
-The hypothesis and results above
+The hypothesis and results above are based on categories with vastly different sample sizes (for example, 60% of the coffee coupon data was for temperature conditions in the 80°F category, and 27% of respondents were students/unemployed, while the other 23 categories were 3% or less of the data each).
+
+The hypothesis provide a good indication of which categories were more likely to influence coupon acceptance, but further samples are recommended to ensure all categories are captured.
