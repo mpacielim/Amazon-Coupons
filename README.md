@@ -9,9 +9,9 @@ This was completed as part of the Berkeley Professional Certificate in Machine L
 ## Findings Summary
 The full analysis can be found in this jupyter notebook: [prompt_coupon_mpaciepnik.ipynb](https://github.com/mpacielim/Amazon-Coupons/blob/main/prompt_coupon_mpaciepnik.ipynb)
 
-The analysis focused on customers who were sent coupons for either bars or coffee shops.
+The analysis focused on customers who were sent coupons for either bars or coffee shops, with the following hypotheses formed:
 
-# Bars
+### Bars
 Bar coupons had an overall acceptance rate of 41.2%
 
 Drivers were **MORE** likely to accept the coupon if:
@@ -25,7 +25,7 @@ Drivers were **LESS** likely to accept the coupon in opposite categories, meanin
 1. Those who went to bars less than once a month (29% acceptance)
 2. Those who went less than 3 times a month at 37%.
 
-# Coffee Shops
+### Coffee Shops
 Coffee shop coupons had an overall acceptance rate of 49.6%.
 
 Drivers were **MORE** likely to accept a coffee coupons if:
@@ -45,3 +45,6 @@ Drivers were **LESS** likely to accept a coffee coupon if:
 5. They are driving in the opposite direction as the coffee house
 6. They go to a coffee house less than once a month
 The coffee coupon acceptance rate when taking into account all the 6 conditions above is 19.4%.
+
+### Next Steps & Recommendations
+The hypothesis and results above
